@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Qunnie\source\repos\Project1\Project1\main.cpp(1332,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Qunnie\source\repos\Project1\Project1\main.cpp(1496,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Qunnie\source\repos\Project1\Project1\main.cpp(1641,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Qunnie\source\repos\Project1\Project1\main.cpp(2262,39): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Qunnie\source\repos\Project1\Project1\main.cpp(2655,26): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Qunnie\source\repos\Project1\x64\Debug\Project1.exe

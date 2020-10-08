@@ -1,0 +1,2 @@
+C:/Users/Qunnie/source/repos/Project1/Project1/Dependencies/glm/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Qunnie/source/repos/Project1/Project1/Dependencies/glm/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
