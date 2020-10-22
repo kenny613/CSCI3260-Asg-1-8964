@@ -1,6 +1,8 @@
 # Tianamen-tank-OpenGL
 - CSCI3260 Assignment 1
-
+![Image of original](https://github.com/kenny613/Tianamen-tank-OpenGL/blob/main/1.PNG)
+![Image of 2](https://github.com/kenny613/Tianamen-tank-OpenGL/blob/main/2.PNG)
+![Image of dead](https://github.com/kenny613/Tianamen-tank-OpenGL/blob/main/dead.PNG)
 # Description
 - This is a traffic accident happended in 1989 at Tianamen Square
 
