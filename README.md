@@ -1,4 +1,4 @@
-# Tianamen-tank-OpenGL
+# CSCI3260-Tianamen-tank-OpenGL
 - CSCI3260 Assignment 1
 
 ![Image of original](https://github.com/kenny613/Tianamen-tank-OpenGL/blob/main/1.PNG)
