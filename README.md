@@ -1,5 +1,6 @@
 # CSCI3260-Tianamen-tank-OpenGL
 - CSCI3260 Assignment 1
+- Score : 100/100
 
 ![Image of original](https://github.com/kenny613/Tianamen-tank-OpenGL/blob/main/1.PNG)
 ![Image of 2](https://github.com/kenny613/Tianamen-tank-OpenGL/blob/main/2.PNG)
